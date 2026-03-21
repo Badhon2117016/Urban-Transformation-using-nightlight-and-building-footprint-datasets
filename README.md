@@ -1,2 +1,3 @@
 # Urban-Transformation-using-nightlight-and-building-footprint-datasets
 Project Target: - Monitor urban transformation in any city in the Global South using nightlight and building footprint datasets.  Data: - The Visible Infrared Imaging Radiometer Suite (VIIRS) Day/Night Band (DNB) is a satellite sensor that detects nighttime lights. - Combined dataset https://source.coop/vida/google-microsoft-open-buildings
+Thanks
